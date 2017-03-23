@@ -1,0 +1,6 @@
+D:\github\ITKPU1-01\lab9\lab1BeepApp\lab1BeepApp\bin\Debug\lab1BeepApp.exe.config
+D:\github\ITKPU1-01\lab9\lab1BeepApp\lab1BeepApp\bin\Debug\lab1BeepApp.exe
+D:\github\ITKPU1-01\lab9\lab1BeepApp\lab1BeepApp\bin\Debug\lab1BeepApp.pdb
+D:\github\ITKPU1-01\lab9\lab1BeepApp\lab1BeepApp\obj\Debug\lab1BeepApp.csprojResolveAssemblyReference.cache
+D:\github\ITKPU1-01\lab9\lab1BeepApp\lab1BeepApp\obj\Debug\lab1BeepApp.exe
+D:\github\ITKPU1-01\lab9\lab1BeepApp\lab1BeepApp\obj\Debug\lab1BeepApp.pdb

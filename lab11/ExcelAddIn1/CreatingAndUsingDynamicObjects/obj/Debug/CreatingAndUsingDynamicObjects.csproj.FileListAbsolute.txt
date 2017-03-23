@@ -1,0 +1,6 @@
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\CreatingAndUsingDynamicObjects\bin\Debug\CreatingAndUsingDynamicObjects.exe.config
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\CreatingAndUsingDynamicObjects\bin\Debug\CreatingAndUsingDynamicObjects.exe
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\CreatingAndUsingDynamicObjects\bin\Debug\CreatingAndUsingDynamicObjects.pdb
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\CreatingAndUsingDynamicObjects\obj\Debug\CreatingAndUsingDynamicObjects.csprojResolveAssemblyReference.cache
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\CreatingAndUsingDynamicObjects\obj\Debug\CreatingAndUsingDynamicObjects.exe
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\CreatingAndUsingDynamicObjects\obj\Debug\CreatingAndUsingDynamicObjects.pdb

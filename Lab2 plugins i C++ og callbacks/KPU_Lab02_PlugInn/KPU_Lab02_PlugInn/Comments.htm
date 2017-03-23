@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+    <title>Kommentarer til løsningsforslag</title>
+</head>
+<body>
+
+    <h1>
+        Kommentarer til løsningsforslag</h1>
+    <h2>
+        Lab 2.1</h2>
+    <p>
+        Jeg lavede først et projekt og tilføjede de to header-filer. Da jeg så fik fejl 
+        fra projktet (noget med manglende manifest file) når jeg byggede den samlede 
+        solution, så lavede jeg i stedet en solution mappe og placerede filerne der. Og 
+        fjernede det oprindelige projekt Lab2.1.</p>
+    <h2>
+        Lab2.2</h2>
+    <p>
+        Laver en implementering til AppUtil og laver så selve applikationen i 
+        Lab2.2.cpp. Det største problem var at LoadLibrary() kræver en parameter af 
+        typen LPCWSTR (Long Pointer Const Wide STRing) -&gt; vi skal bruge Unicode. I C++ 
+        kan man skifte til at arbejde med Unicode ved at sætte w foran: f.eks. wstring, 
+        og wcin. Streng-konstanter kan konverteres til Unicode med macroen 
+        TEXT(&quot;streng&quot;).</p>
+    <h2>
+        Lab2.3</h2>
+    <p>
+        Laver en implementering af CDLLclass kaldet CDLLclass23Imp. Jeg har lavet 
+        erklæringen af klassen i cpp-filen for at skære det ud i pap at den ikke bruges 
+        af den kaldende applikation. Men egentlig er det ligegyldig, for den kaldende 
+        applikation inkluderer ikke header-filen.</p>
+    <h2>
+        Lab2.4</h2>
+    <p>
+        Lave en implementering af CDLLclass kaldet CDLLclass24Imp. I dette projekt har 
+        jeg tilføjet udskrivning ved DLL_PROCESS_ATTACH og DETACH i debug mode, for at 
+        demonstrere at de bliver kaldt.</p>
+
+</body>
+</html>

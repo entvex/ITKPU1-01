@@ -1,0 +1,2 @@
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\WpfApplication1\bin\Debug\WpfApplication1.exe.config

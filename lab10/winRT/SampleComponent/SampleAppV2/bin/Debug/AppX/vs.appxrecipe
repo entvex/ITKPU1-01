@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-SA562H2</Machine>
+    <WindowsUser>entvex</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c858cb9c-2ac7-4fc8-a9ef-e8c78153380d</PackageIdentityName>
+    <PackageIdentityPublisher>CN=entvex</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\github\ITKPU1-01\lab10\winRT\SampleComponent\SampleAppV2\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>604BB041438898F8427790DD7A791DBF1F1114A90458B893378EC56143A235A4</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c858cb9c-2ac7-4fc8-a9ef-e8c78153380d_1.0.0.0_neutral__htw5hxa1a0etw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c858cb9c-2ac7-4fc8-a9ef-e8c78153380d_htw5hxa1a0etw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c858cb9c-2ac7-4fc8-a9ef-e8c78153380d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=entvex</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\github\ITKPU1-01\lab10\winRT\SampleComponent\SampleAppV2\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-07T12:55:22.276</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\lab10\winRT\SampleComponent\SampleAppV2\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2017-03-07T12:54:52.192</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\lab10\winRT\SampleComponent\SampleAppV2\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-09-20T16:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\lab10\winRT\SampleComponent\SampleAppV2\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T16:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\lab10\winRT\SampleComponent\SampleAppV2\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T16:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\lab10\winRT\SampleComponent\SampleAppV2\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T16:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\lab10\winRT\SampleComponent\SampleAppV2\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T16:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\lab10\winRT\SampleComponent\SampleAppV2\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T16:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\lab10\winRT\SampleComponent\SampleAppV2\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T16:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\lab10\winRT\SampleComponent\SampleAppV2\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2017-03-07T12:53:54.323</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\lab10\winRT\SampleComponent\SampleAppV2\lib\winjs-4.0.1\js\base.js">
+      <PackagePath>lib\winjs-4.0.1\js\base.js</PackagePath>
+      <Modified>2016-07-11T17:44:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\lab10\winRT\SampleComponent\SampleAppV2\lib\winjs-4.0.1\js\ui.js">
+      <PackagePath>lib\winjs-4.0.1\js\ui.js</PackagePath>
+      <Modified>2016-07-11T17:44:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\lab10\winRT\SampleComponent\SampleAppV2\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2017-03-07T12:55:02.091</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\lab10\winRT\SampleComponent\SampleAppV2\lib\winjs-4.0.1\css\ui-light.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-light.css</PackagePath>
+      <Modified>2016-07-11T17:44:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\lab10\winRT\SampleComponent\SampleAppV2\lib\winjs-4.0.1\css\ui-dark.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-dark.css</PackagePath>
+      <Modified>2016-07-11T17:44:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\lab10\winRT\SampleComponent\SampleAppV2\lib\winjs-4.0.1\fonts\Symbols.ttf">
+      <PackagePath>lib\winjs-4.0.1\fonts\Symbols.ttf</PackagePath>
+      <Modified>2016-07-11T17:44:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\lab10\winRT\SampleComponent\SampleAppV2\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-07T12:55:22.162</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

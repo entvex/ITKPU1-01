@@ -1,0 +1,17 @@
+D:\github\ITKPU1-01\lab11\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\bin\Debug\ApplicationDuckSitePointLab.dll
+D:\github\ITKPU1-01\lab11\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\bin\Debug\ApplicationDuckSitePointLab.pdb
+D:\github\ITKPU1-01\lab11\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\bin\Debug\Xamarin.Forms.Core.dll
+D:\github\ITKPU1-01\lab11\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\bin\Debug\Xamarin.Forms.Platform.dll
+D:\github\ITKPU1-01\lab11\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\github\ITKPU1-01\lab11\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\bin\Debug\Xamarin.Forms.Core.pdb
+D:\github\ITKPU1-01\lab11\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\bin\Debug\Xamarin.Forms.Core.xml
+D:\github\ITKPU1-01\lab11\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\github\ITKPU1-01\lab11\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\github\ITKPU1-01\lab11\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\github\ITKPU1-01\lab11\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\obj\Debug\ApplicationDuckSitePointLab.MainPage.xaml.g.cs
+D:\github\ITKPU1-01\lab11\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\obj\Debug\ApplicationDuckSitePointLab.App.xaml.g.cs
+D:\github\ITKPU1-01\lab11\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\obj\Debug\ApplicationDuckSitePointLab.dll
+D:\github\ITKPU1-01\lab11\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\obj\Debug\ApplicationDuckSitePointLab.pdb
+D:\github\ITKPU1-01\lab11\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\obj\Debug\ApplicationDuckSitePointLab.csprojResolveAssemblyReference.cache
+D:\github\ITKPU1-01\lab11\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\obj\Debug\ApplicationDuckSitePointLab.dll.mdb
+D:\github\ITKPU1-01\lab11\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\ApplicationDuckSitePointLab\bin\Debug\ApplicationDuckSitePointLab.dll.mdb

@@ -1,0 +1,2 @@
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\GUIFrontend\GUIFrontend.csproj;x86
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\PortableClassLibraryOpgave\PortableClassLibraryOpgave.csproj;neutral

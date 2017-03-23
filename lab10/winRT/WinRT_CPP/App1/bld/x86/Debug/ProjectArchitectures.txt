@@ -1,0 +1,2 @@
+D:\github\ITKPU1-01\WinRT_CPP\App1\App1.jsproj;x86
+D:\github\ITKPU1-01\WinRT_CPP\WinRT_CPP\WinRT_CPP.vcxproj;x86

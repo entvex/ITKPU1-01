@@ -1,0 +1,4 @@
+Xamarin_Native_PCL.Droid.MainActivity, Xamarin_Native_PCL.Android;md5b7433c36960624ca925abbb15d630a63.MainActivity
+Xamarin_Native_PCL.Droid.MainActivity, Xamarin_Native_PCL.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b7433c36960624ca925abbb15d630a63.MainActivity
+Xamarin_Native_PCL.Droid.MainActivity;md5b7433c36960624ca925abbb15d630a63.MainActivity
+xamarin_native_pcl.droid.MainActivity;md5b7433c36960624ca925abbb15d630a63.MainActivity

@@ -1,0 +1,2 @@
+D:\github\ITKPU1-01\lab11\Xamarin Forms PCL\Xamarin Forms PCL\Xamarin_Forms_PCL.UWP\Xamarin_Forms_PCL.UWP.csproj;x64
+D:\github\ITKPU1-01\lab11\Xamarin Forms PCL\Xamarin Forms PCL\Xamarin_Forms_PCL\Xamarin_Forms_PCL.csproj;neutral

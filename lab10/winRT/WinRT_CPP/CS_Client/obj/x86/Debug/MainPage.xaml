@@ -1,0 +1,29 @@
+﻿<Page
+    x:Class="CS_Client.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CS_Client"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <ScrollViewer>
+            <StackPanel Width="1400">
+
+                <Button x:ConnectionId='1' x:Name="Button1" Width="340" Height="50"  Margin="0,20,20,20" Content="Synchronous Logarithm Calculation" FontSize="16"                        />
+                <TextBlock x:ConnectionId='2' x:Name="Result1" Height="100" FontSize="14"></TextBlock>
+                <Button x:ConnectionId='3' x:Name="PrimesOrderedButton" Content="Prime Numbers Ordered" FontSize="16" Width="340" Height="50" Margin="0,20,20,20"                                    ></Button>
+                <ProgressBar x:ConnectionId='4' x:Name="PrimesOrderedProgress" IsIndeterminate="false" Height="40"></ProgressBar>
+                <TextBlock x:ConnectionId='5' x:Name="PrimesOrderedResult" MinHeight="100" FontSize="10" TextWrapping="Wrap"></TextBlock>
+                <Button x:ConnectionId='6' x:Name="PrimesUnOrderedButton" Width="340" Height="50" Margin="0,20,20,20"                                       Content="Prime Numbers Unordered" FontSize="16"></Button>
+                <ProgressBar x:ConnectionId='7' x:Name="PrimesUnOrderedProgress" IsIndeterminate="false" Height="40" ></ProgressBar>
+                <TextBlock x:ConnectionId='8' x:Name="PrimesUnOrderedResult" MinHeight="100" FontSize="10" TextWrapping="Wrap"></TextBlock>
+
+                <Button x:ConnectionId='9' x:Name="Clear_Button" Content="Clear" HorizontalAlignment="Left" Margin="0,20,20,20" VerticalAlignment="Top" Width="341"                            FontSize="16"/>
+            </StackPanel>
+        </ScrollViewer>
+
+    </Grid>
+</Page>
+

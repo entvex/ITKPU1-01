@@ -1,0 +1,9 @@
+D:\github\ITKPU1-01\lab14\LabWindowsService\LabWindowsService\bin\Debug\LabWindowsService.exe.config
+D:\github\ITKPU1-01\lab14\LabWindowsService\LabWindowsService\bin\Debug\LabWindowsService.exe
+D:\github\ITKPU1-01\lab14\LabWindowsService\LabWindowsService\bin\Debug\LabWindowsService.pdb
+D:\github\ITKPU1-01\lab14\LabWindowsService\LabWindowsService\bin\Debug\Topshelf.dll
+D:\github\ITKPU1-01\lab14\LabWindowsService\LabWindowsService\bin\Debug\Topshelf.xml
+D:\github\ITKPU1-01\lab14\LabWindowsService\LabWindowsService\obj\Debug\LabWindowsService.exe
+D:\github\ITKPU1-01\lab14\LabWindowsService\LabWindowsService\obj\Debug\LabWindowsService.pdb
+D:\github\ITKPU1-01\lab14\LabWindowsService\LabWindowsService\bin\Debug\Newtonsoft.Json.dll
+D:\github\ITKPU1-01\lab14\LabWindowsService\LabWindowsService\bin\Debug\Newtonsoft.Json.xml

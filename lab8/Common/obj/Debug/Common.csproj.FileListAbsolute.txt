@@ -1,0 +1,61 @@
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\bin\Debug\Common.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\bin\Debug\Common.pdb
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\obj\Debug\Common.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\obj\Debug\Common.pdb
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\bin\Debug\Prism.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\bin\Debug\Prism.Wpf.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\bin\Debug\Prism.xml
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\bin\Debug\Prism.Wpf.xml
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\Common\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\bin\Debug\Common.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\bin\Debug\Common.pdb
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\bin\Debug\Prism.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\bin\Debug\Prism.Wpf.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\bin\Debug\Prism.xml
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\bin\Debug\Prism.Wpf.xml
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\obj\Debug\Common.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\Common\obj\Debug\Common.pdb

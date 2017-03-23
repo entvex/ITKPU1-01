@@ -1,0 +1,16 @@
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\WpfUsingPortableLib\bin\Debug\WpfUsingPortableLib.exe.config
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\WpfUsingPortableLib\obj\Debug\WpfUsingPortableLib.csprojResolveAssemblyReference.cache
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\WpfUsingPortableLib\obj\Debug\MainWindow.g.cs
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\WpfUsingPortableLib\obj\Debug\WpfUsingPortableLib_MarkupCompile.cache
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\WpfUsingPortableLib\obj\Debug\WpfUsingPortableLib_MarkupCompile.lref
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\WpfUsingPortableLib\bin\Debug\WpfUsingPortableLib.exe
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\WpfUsingPortableLib\bin\Debug\WpfUsingPortableLib.pdb
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\WpfUsingPortableLib\bin\Debug\PortableClassLibraryOpgave.dll
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\WpfUsingPortableLib\bin\Debug\PortableClassLibraryOpgave.pdb
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\WpfUsingPortableLib\obj\Debug\App.g.cs
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\WpfUsingPortableLib\obj\Debug\MainWindow.baml
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\WpfUsingPortableLib\obj\Debug\WpfUsingPortableLib.g.resources
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\WpfUsingPortableLib\obj\Debug\WpfUsingPortableLib.Properties.Resources.resources
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\WpfUsingPortableLib\obj\Debug\WpfUsingPortableLib.csproj.GenerateResource.Cache
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\WpfUsingPortableLib\obj\Debug\WpfUsingPortableLib.exe
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\WpfUsingPortableLib\obj\Debug\WpfUsingPortableLib.pdb

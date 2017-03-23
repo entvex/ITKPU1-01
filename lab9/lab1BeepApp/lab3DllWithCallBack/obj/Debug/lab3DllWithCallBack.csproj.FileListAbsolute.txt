@@ -1,0 +1,6 @@
+D:\github\ITKPU1-01\lab9\lab1BeepApp\lab3DllWithCallBack\bin\Debug\lab3DllWithCallBack.exe.config
+D:\github\ITKPU1-01\lab9\lab1BeepApp\lab3DllWithCallBack\bin\Debug\lab3DllWithCallBack.exe
+D:\github\ITKPU1-01\lab9\lab1BeepApp\lab3DllWithCallBack\bin\Debug\lab3DllWithCallBack.pdb
+D:\github\ITKPU1-01\lab9\lab1BeepApp\lab3DllWithCallBack\obj\Debug\lab3DllWithCallBack.csprojResolveAssemblyReference.cache
+D:\github\ITKPU1-01\lab9\lab1BeepApp\lab3DllWithCallBack\obj\Debug\lab3DllWithCallBack.exe
+D:\github\ITKPU1-01\lab9\lab1BeepApp\lab3DllWithCallBack\obj\Debug\lab3DllWithCallBack.pdb

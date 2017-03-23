@@ -1,0 +1,5 @@
+D:\github\ITKPU1-01\lab 4\CprCheck lab1\ClassLibrary1Signed\bin\Debug\ClassLibrary1Signed.dll
+D:\github\ITKPU1-01\lab 4\CprCheck lab1\ClassLibrary1Signed\bin\Debug\ClassLibrary1Signed.pdb
+D:\github\ITKPU1-01\lab 4\CprCheck lab1\ClassLibrary1Signed\obj\Debug\ClassLibrary1Signed.csprojResolveAssemblyReference.cache
+D:\github\ITKPU1-01\lab 4\CprCheck lab1\ClassLibrary1Signed\obj\Debug\ClassLibrary1Signed.dll
+D:\github\ITKPU1-01\lab 4\CprCheck lab1\ClassLibrary1Signed\obj\Debug\ClassLibrary1Signed.pdb

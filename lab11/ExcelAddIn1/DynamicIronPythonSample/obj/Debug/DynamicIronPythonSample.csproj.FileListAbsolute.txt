@@ -1,0 +1,16 @@
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\DynamicIronPythonSample\bin\Debug\DynamicIronPythonSample.exe.config
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\DynamicIronPythonSample\bin\Debug\DynamicIronPythonSample.exe
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\DynamicIronPythonSample\bin\Debug\DynamicIronPythonSample.pdb
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\DynamicIronPythonSample\bin\Debug\IronPython.dll
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\DynamicIronPythonSample\bin\Debug\IronPython.Modules.dll
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\DynamicIronPythonSample\bin\Debug\Microsoft.Dynamic.dll
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\DynamicIronPythonSample\bin\Debug\Microsoft.Scripting.dll
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\DynamicIronPythonSample\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\DynamicIronPythonSample\bin\Debug\IronPython.xml
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\DynamicIronPythonSample\bin\Debug\IronPython.Modules.xml
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\DynamicIronPythonSample\bin\Debug\Microsoft.Dynamic.xml
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\DynamicIronPythonSample\bin\Debug\Microsoft.Scripting.xml
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\DynamicIronPythonSample\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\DynamicIronPythonSample\obj\Debug\DynamicIronPythonSample.csprojResolveAssemblyReference.cache
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\DynamicIronPythonSample\obj\Debug\DynamicIronPythonSample.exe
+D:\github\ITKPU1-01\lab11\ExcelAddIn1\DynamicIronPythonSample\obj\Debug\DynamicIronPythonSample.pdb

@@ -1,0 +1,2 @@
+D:\github\ITKPU1-01\lab11\Phoneword\Phoneword\Phoneword.UWP\Phoneword.UWP.csproj;x64
+D:\github\ITKPU1-01\lab11\Phoneword\Phoneword\Phoneword\Phoneword.csproj;neutral

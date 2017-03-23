@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  Lab3_dll.cpp
+     Creating library D:\github\ITKPU1-01\lab9\lab1BeepApp\Debug\Lab3_dll.lib and object D:\github\ITKPU1-01\lab9\lab1BeepApp\Debug\Lab3_dll.exp
+  Lab3_dll.vcxproj -> D:\github\ITKPU1-01\lab9\lab1BeepApp\Debug\Lab3_dll.dll
+  Lab3_dll.vcxproj -> D:\github\ITKPU1-01\lab9\lab1BeepApp\Debug\Lab3_dll.pdb (Full PDB)

@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-SA562H2</Machine>
+    <WindowsUser>entvex</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>2006270b-2f0a-40a4-8550-1cd89b415ece</PackageIdentityName>
+    <PackageIdentityPublisher>CN=entvex</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\github\ITKPU1-01\WinRT_CPP\App1\bld\x86\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>40A85B63865C84FC5886A24019C692264487D8C20DE5C1EEB1E9798CA0ACACAF</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2006270b-2f0a-40a4-8550-1cd89b415ece_1.0.0.0_x86__htw5hxa1a0etw</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2006270b-2f0a-40a4-8550-1cd89b415ece_htw5hxa1a0etw!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2006270b-2f0a-40a4-8550-1cd89b415ece</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=entvex</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\github\ITKPU1-01\WinRT_CPP\App1\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-07T14:22:54.235</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\WinRT_CPP\Debug\WinRT_CPP\WinRT_CPP.winmd">
+      <PackagePath>WinRT_CPP.winmd</PackagePath>
+      <Modified>2017-03-07T14:22:52.006</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\WinRT_CPP\Debug\WinRT_CPP\WinRT_CPP.dll">
+      <PackagePath>WinRT_CPP.dll</PackagePath>
+      <Modified>2017-03-07T14:22:52.087</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\WinRT_CPP\App1\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2017-03-07T14:21:14.733</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\WinRT_CPP\App1\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-09-20T16:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\WinRT_CPP\App1\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T16:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\WinRT_CPP\App1\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T16:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\WinRT_CPP\App1\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T16:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\WinRT_CPP\App1\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T16:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\WinRT_CPP\App1\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T16:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\WinRT_CPP\App1\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-20T16:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\WinRT_CPP\App1\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+      <Modified>2017-03-07T14:24:30.351</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\WinRT_CPP\App1\lib\winjs-4.0.1\js\base.js">
+      <PackagePath>lib\winjs-4.0.1\js\base.js</PackagePath>
+      <Modified>2016-07-11T17:44:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\WinRT_CPP\App1\lib\winjs-4.0.1\js\ui.js">
+      <PackagePath>lib\winjs-4.0.1\js\ui.js</PackagePath>
+      <Modified>2016-07-11T17:44:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\WinRT_CPP\App1\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2017-03-07T14:25:23.224</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\WinRT_CPP\App1\lib\winjs-4.0.1\css\ui-light.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-light.css</PackagePath>
+      <Modified>2016-07-11T17:44:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\WinRT_CPP\App1\lib\winjs-4.0.1\css\ui-dark.css">
+      <PackagePath>lib\winjs-4.0.1\css\ui-dark.css</PackagePath>
+      <Modified>2016-07-11T17:44:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\WinRT_CPP\App1\lib\winjs-4.0.1\fonts\Symbols.ttf">
+      <PackagePath>lib\winjs-4.0.1\fonts\Symbols.ttf</PackagePath>
+      <Modified>2016-07-11T17:44:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.14393.0\\redist\Debug\x86\ucrtbased.dll">
+      <PackagePath>ucrtbased.dll</PackagePath>
+      <Modified>2016-07-28T07:01:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\github\ITKPU1-01\WinRT_CPP\App1\bin\x86\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-07T14:22:52.700</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.24210.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.24210.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.24210.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.24210.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.24210.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.24210.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

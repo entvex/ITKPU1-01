@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  lab1.3DDLdynamisk.cpp
+c:\program files (x86)\windows kits\8.1\include\um\winnt.h(147): fatal error C1189: #error:  "No Target Architecture"

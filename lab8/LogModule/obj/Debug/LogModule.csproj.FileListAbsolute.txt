@@ -1,0 +1,114 @@
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\LogModule.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\LogModule.pdb
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Common.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Prism.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Prism.Wpf.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Common.pdb
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Prism.xml
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Prism.Wpf.xml
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\obj\Debug\LogModule.csprojResolveAssemblyReference.cache
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\obj\Debug\Views\LogView.g.cs
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\obj\Debug\LogModule_MarkupCompile.cache
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\obj\Debug\LogModule_MarkupCompile.lref
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\obj\Debug\Views\LogView.baml
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\obj\Debug\LogModule.g.resources
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\obj\Debug\LogModule.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\LogModule\obj\Debug\LogModule.pdb
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\LogModule.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\LogModule.pdb
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Common.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Prism.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Prism.Wpf.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Common.pdb
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Prism.xml
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\Prism.Wpf.xml
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\obj\Debug\LogModule.csprojResolveAssemblyReference.cache
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\obj\Debug\Views\LogView.g.cs
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\obj\Debug\LogModule_MarkupCompile.cache
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\obj\Debug\LogModule_MarkupCompile.lref
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\obj\Debug\Views\LogView.baml
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\obj\Debug\LogModule.g.resources
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\obj\Debug\LogModule.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\LogModule\obj\Debug\LogModule.pdb
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\LogModule.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\LogModule.pdb
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\Common.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\Prism.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\Prism.Wpf.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\Common.pdb
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\Prism.xml
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\Prism.Wpf.xml
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\obj\Debug\LogModule.csprojResolveAssemblyReference.cache
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\obj\Debug\Views\LogView.g.cs
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\obj\Debug\LogModule_MarkupCompile.cache
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\obj\Debug\LogModule_MarkupCompile.lref
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\obj\Debug\Views\LogView.baml
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\obj\Debug\LogModule.g.resources
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\obj\Debug\LogModule.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\LogModule\obj\Debug\LogModule.pdb

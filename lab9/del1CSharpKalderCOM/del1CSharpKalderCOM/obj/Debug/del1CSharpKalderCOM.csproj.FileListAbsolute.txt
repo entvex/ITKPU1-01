@@ -1,0 +1,17 @@
+D:\github\ITKPU1-01\lab9\del1CSharpKalderCOM\del1CSharpKalderCOM\bin\Debug\del1CSharpKalderCOM.exe.config
+D:\github\ITKPU1-01\lab9\del1CSharpKalderCOM\del1CSharpKalderCOM\bin\Debug\del1CSharpKalderCOM.exe
+D:\github\ITKPU1-01\lab9\del1CSharpKalderCOM\del1CSharpKalderCOM\bin\Debug\del1CSharpKalderCOM.pdb
+D:\github\ITKPU1-01\lab9\del1CSharpKalderCOM\del1CSharpKalderCOM\obj\Debug\MainWindow.g.cs
+D:\github\ITKPU1-01\lab9\del1CSharpKalderCOM\del1CSharpKalderCOM\obj\Debug\App.g.cs
+D:\github\ITKPU1-01\lab9\del1CSharpKalderCOM\del1CSharpKalderCOM\obj\Debug\del1CSharpKalderCOM_MarkupCompile.cache
+D:\github\ITKPU1-01\lab9\del1CSharpKalderCOM\del1CSharpKalderCOM\obj\Debug\del1CSharpKalderCOM_MarkupCompile.lref
+D:\github\ITKPU1-01\lab9\del1CSharpKalderCOM\del1CSharpKalderCOM\obj\Debug\MainWindow.baml
+D:\github\ITKPU1-01\lab9\del1CSharpKalderCOM\del1CSharpKalderCOM\obj\Debug\del1CSharpKalderCOM.g.resources
+D:\github\ITKPU1-01\lab9\del1CSharpKalderCOM\del1CSharpKalderCOM\obj\Debug\del1CSharpKalderCOM.Properties.Resources.resources
+D:\github\ITKPU1-01\lab9\del1CSharpKalderCOM\del1CSharpKalderCOM\obj\Debug\del1CSharpKalderCOM.csproj.GenerateResource.Cache
+D:\github\ITKPU1-01\lab9\del1CSharpKalderCOM\del1CSharpKalderCOM\obj\Debug\del1CSharpKalderCOM.exe
+D:\github\ITKPU1-01\lab9\del1CSharpKalderCOM\del1CSharpKalderCOM\obj\Debug\del1CSharpKalderCOM.pdb
+D:\github\ITKPU1-01\lab9\del1CSharpKalderCOM\del1CSharpKalderCOM\obj\Debug\del1CSharpKalderCOM.csprojResolveAssemblyReference.cache
+D:\github\ITKPU1-01\lab9\del1CSharpKalderCOM\del1CSharpKalderCOM\obj\Debug\Interop.exercise3_1Lib.dll
+D:\github\ITKPU1-01\lab9\del1CSharpKalderCOM\del1CSharpKalderCOM\obj\Debug\del1CSharpKalderCOM.csproj.ResolveComReference.cache
+D:\github\ITKPU1-01\lab9\del1CSharpKalderCOM\del1CSharpKalderCOM\obj\Debug\del1CSharpKalderCOM_Content.g.cs

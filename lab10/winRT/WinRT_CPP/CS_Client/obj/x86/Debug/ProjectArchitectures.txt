@@ -1,0 +1,2 @@
+D:\github\ITKPU1-01\WinRT_CPP\CS_Client\CS_Client.csproj;x86
+D:\github\ITKPU1-01\WinRT_CPP\WinRT_CPP\WinRT_CPP.vcxproj;x86

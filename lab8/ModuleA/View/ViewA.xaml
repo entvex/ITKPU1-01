@@ -1,0 +1,10 @@
+﻿<UserControl x:Class="ModuleA.View.ViewA"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:prism="http://prismlibrary.com/"
+             prism:ViewModelLocator.AutoWireViewModel="True"
+             Background="Aqua">
+    <Grid>
+        <TextBlock Text="{Binding Title}" Foreground="Green" FontFamily="Calibri" FontWeight="Bold"></TextBlock>
+    </Grid>
+</UserControl>

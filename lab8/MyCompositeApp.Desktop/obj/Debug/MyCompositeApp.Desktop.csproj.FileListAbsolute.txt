@@ -1,0 +1,148 @@
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\MyCompositeApp.Desktop.exe.config
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\MyCompositeApp.Desktop.exe
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\MyCompositeApp.Desktop.pdb
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Common.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\MenuModule.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Prism.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Prism.Wpf.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Common.pdb
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\MenuModule.pdb
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Prism.xml
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Prism.Wpf.xml
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\obj\Debug\MyCompositeApp.Desktop.csprojResolveAssemblyReference.cache
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\obj\Debug\Shell.g.cs
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\obj\Debug\App.g.cs
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\obj\Debug\MyCompositeApp.Desktop_MarkupCompile.cache
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\obj\Debug\MyCompositeApp.Desktop_MarkupCompile.lref
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\obj\Debug\Shell.baml
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\obj\Debug\MyCompositeApp.Desktop.g.resources
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\obj\Debug\MyCompositeApp.Desktop.Properties.Resources.resources
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\obj\Debug\MyCompositeApp.Desktop.csproj.GenerateResource.Cache
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\obj\Debug\MyCompositeApp.Desktop.exe
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\obj\Debug\MyCompositeApp.Desktop.pdb
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\StatusModule.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\StatusModule.pdb
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\LogModule.dll
+C:\Users\Mathis\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\LogModule.pdb
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\MyCompositeApp.Desktop.exe.config
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\obj\Debug\MyCompositeApp.Desktop.exe
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\obj\Debug\MyCompositeApp.Desktop.pdb
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\MyCompositeApp.Desktop.exe
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\MyCompositeApp.Desktop.pdb
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Common.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\LogModule.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\MenuModule.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Prism.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Prism.Wpf.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\StatusModule.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Common.pdb
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\LogModule.pdb
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\MenuModule.pdb
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\StatusModule.pdb
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Prism.xml
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\Prism.Wpf.xml
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\obj\Debug\MyCompositeApp.Desktop.csprojResolveAssemblyReference.cache
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\obj\Debug\Shell.g.cs
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\obj\Debug\App.g.cs
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\obj\Debug\MyCompositeApp.Desktop_MarkupCompile.cache
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\obj\Debug\MyCompositeApp.Desktop_MarkupCompile.lref
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\obj\Debug\Shell.baml
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\obj\Debug\MyCompositeApp.Desktop.g.resources
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\obj\Debug\MyCompositeApp.Desktop.Properties.Resources.resources
+C:\Users\thise\OneDrive\IKT\IT-KPU\LAB08\MyCompositeApp.Desktop\obj\Debug\MyCompositeApp.Desktop.csproj.GenerateResource.Cache
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\MyCompositeApp.Desktop.exe.config
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\obj\Debug\MyCompositeApp.Desktop.exe
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\obj\Debug\MyCompositeApp.Desktop.pdb
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\MyCompositeApp.Desktop.exe
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\MyCompositeApp.Desktop.pdb
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\Common.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\LogModule.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\MenuModule.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\Prism.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\Prism.Unity.Wpf.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\Prism.Wpf.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\StatusModule.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\Common.pdb
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\LogModule.pdb
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\MenuModule.pdb
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\StatusModule.pdb
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\Prism.xml
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\Prism.Unity.Wpf.xml
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\Prism.Wpf.xml
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\obj\Debug\MyCompositeApp.Desktop.csprojResolveAssemblyReference.cache
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\obj\Debug\Shell.g.cs
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\obj\Debug\App.g.cs
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\obj\Debug\MyCompositeApp.Desktop_MarkupCompile.cache
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\obj\Debug\MyCompositeApp.Desktop_MarkupCompile.lref
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\obj\Debug\Shell.baml
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\obj\Debug\MyCompositeApp.Desktop.g.resources
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\obj\Debug\MyCompositeApp.Desktop.Properties.Resources.resources
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\obj\Debug\MyCompositeApp.Desktop.csproj.GenerateResource.Cache
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\ModuleA.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\ModuleA.pdb
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\ModuleB.dll
+C:\Users\entvex\Desktop\labs til examen\6. prism\LAB08\MyCompositeApp.Desktop\bin\Debug\ModuleB.pdb

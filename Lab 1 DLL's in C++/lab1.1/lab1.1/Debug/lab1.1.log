@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  lab1.1.cpp
+d:\github\itkpu1-01\lab 1 dll's in c++\lab1.1\lab1.1\lab1.1.h(17): warning C4190: 'AddStrings' has C-linkage specified, but returns UDT 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' which is incompatible with C
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\xstring(2633): note: see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+d:\github\itkpu1-01\lab 1 dll's in c++\lab1.1\lab1.1\lab1.1.cpp(19): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\github\itkpu1-01\lab 1 dll's in c++\lab1.1\lab1.1\lab1.1.cpp(20): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+     Creating library D:\github\ITKPU1-01\Lab 1 DLL's in C++\lab1.1\Debug\lab1.1.lib and object D:\github\ITKPU1-01\Lab 1 DLL's in C++\lab1.1\Debug\lab1.1.exp
+  lab1.1.vcxproj -> D:\github\ITKPU1-01\Lab 1 DLL's in C++\lab1.1\Debug\lab1.1.dll
+  lab1.1.vcxproj -> D:\github\ITKPU1-01\Lab 1 DLL's in C++\lab1.1\Debug\lab1.1.pdb (Full PDB)

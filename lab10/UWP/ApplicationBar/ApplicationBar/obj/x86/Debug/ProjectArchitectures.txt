@@ -1,0 +1,1 @@
+D:\github\ITKPU1-01\lab10\ApplicationBar\ApplicationBar\ApplicationBar.csproj;x86

@@ -1,0 +1,41 @@
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 08 Lifecycles\LeakyApp\LeakyApp\bin\Debug\LeakyApp.exe
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 08 Lifecycles\LeakyApp\LeakyApp\bin\Debug\LeakyApp.pdb
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 08 Lifecycles\LeakyApp\LeakyApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 08 Lifecycles\LeakyApp\LeakyApp\obj\x86\Debug\MainWindow.baml
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 08 Lifecycles\LeakyApp\LeakyApp\obj\x86\Debug\MainWindow.g.cs
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 08 Lifecycles\LeakyApp\LeakyApp\obj\x86\Debug\App.g.cs
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 08 Lifecycles\LeakyApp\LeakyApp\obj\x86\Debug\LeakyApp_MarkupCompile.cache
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 08 Lifecycles\LeakyApp\LeakyApp\obj\x86\Debug\LeakyApp.g.resources
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 08 Lifecycles\LeakyApp\LeakyApp\obj\x86\Debug\LeakyApp.Properties.Resources.resources
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 08 Lifecycles\LeakyApp\LeakyApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 08 Lifecycles\LeakyApp\LeakyApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 08 Lifecycles\LeakyApp\LeakyApp\obj\x86\Debug\LeakyApp.exe
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 08 Lifecycles\LeakyApp\LeakyApp\obj\x86\Debug\LeakyApp.pdb
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 08 Lifecycles\LeakyApp\LeakyApp\obj\x86\Debug\NameWindow.baml
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 08 Lifecycles\LeakyApp\LeakyApp\obj\x86\Debug\NameWindow.g.cs
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 08 Lifecycles\LeakyApp\LeakyApp\obj\x86\Debug\BindingWindow.baml
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 08 Lifecycles\LeakyApp\LeakyApp\obj\x86\Debug\FileWindow.baml
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 08 Lifecycles\LeakyApp\LeakyApp\obj\x86\Debug\OpacityWindow.baml
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 08 Lifecycles\LeakyApp\LeakyApp\obj\x86\Debug\BindingWindow.g.cs
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 08 Lifecycles\LeakyApp\LeakyApp\obj\x86\Debug\FileWindow.g.cs
+C:\Users\per\Documents\Kurser\KPU1\Lektioner\Lektion 08 Lifecycles\LeakyApp\LeakyApp\obj\x86\Debug\OpacityWindow.g.cs
+D:\github\ITKPU1-01\lab 4\LeakyApp\obj\x86\Debug\LeakyApp.exe
+D:\github\ITKPU1-01\lab 4\LeakyApp\obj\x86\Debug\LeakyApp.pdb
+D:\github\ITKPU1-01\lab 4\LeakyApp\bin\Debug\LeakyApp.exe
+D:\github\ITKPU1-01\lab 4\LeakyApp\bin\Debug\LeakyApp.pdb
+D:\github\ITKPU1-01\lab 4\LeakyApp\obj\x86\Debug\LeakyApp.csprojResolveAssemblyReference.cache
+D:\github\ITKPU1-01\lab 4\LeakyApp\obj\x86\Debug\BindingWindow.baml
+D:\github\ITKPU1-01\lab 4\LeakyApp\obj\x86\Debug\FileWindow.baml
+D:\github\ITKPU1-01\lab 4\LeakyApp\obj\x86\Debug\MainWindow.baml
+D:\github\ITKPU1-01\lab 4\LeakyApp\obj\x86\Debug\NameWindow.baml
+D:\github\ITKPU1-01\lab 4\LeakyApp\obj\x86\Debug\OpacityWindow.baml
+D:\github\ITKPU1-01\lab 4\LeakyApp\obj\x86\Debug\BindingWindow.g.cs
+D:\github\ITKPU1-01\lab 4\LeakyApp\obj\x86\Debug\FileWindow.g.cs
+D:\github\ITKPU1-01\lab 4\LeakyApp\obj\x86\Debug\MainWindow.g.cs
+D:\github\ITKPU1-01\lab 4\LeakyApp\obj\x86\Debug\NameWindow.g.cs
+D:\github\ITKPU1-01\lab 4\LeakyApp\obj\x86\Debug\OpacityWindow.g.cs
+D:\github\ITKPU1-01\lab 4\LeakyApp\obj\x86\Debug\App.g.cs
+D:\github\ITKPU1-01\lab 4\LeakyApp\obj\x86\Debug\LeakyApp_MarkupCompile.cache
+D:\github\ITKPU1-01\lab 4\LeakyApp\obj\x86\Debug\LeakyApp.g.resources
+D:\github\ITKPU1-01\lab 4\LeakyApp\obj\x86\Debug\LeakyApp.Properties.Resources.resources
+D:\github\ITKPU1-01\lab 4\LeakyApp\obj\x86\Debug\LeakyApp.csproj.GenerateResource.Cache

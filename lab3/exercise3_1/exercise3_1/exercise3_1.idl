@@ -1,0 +1,38 @@
+// exercise3_1.idl : IDL source for exercise3_1
+//
+
+// This file will be processed by the MIDL tool to
+// produce the type library (exercise3_1.tlb) and marshalling code.
+
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+	object,
+	uuid(89203B20-5D1A-41F0-8612-258F2C140C9C),
+	dual,
+	nonextensible,
+	pointer_default(unique)
+]
+interface Icalc : IDispatch{
+	[id(1)] HRESULT Add([in] LONG n1, [in] LONG n2, [out] LONG* result);
+	[id(2)] HRESULT Sub([in] LONG n1, [in] LONG n2, [out, retval] LONG* result);
+	[propget, id(3)] HRESULT offset([out, retval] LONG* pVal);
+	[propput, id(3)] HRESULT offset([in] LONG newVal);
+};
+[
+	uuid(A3DC94B3-2F86-4CF7-9916-37D95B9205C5),
+	version(1.0),
+]
+library exercise3_1Lib
+{
+	importlib("stdole2.tlb");
+	[
+		uuid(35AB0EE9-C7C0-4592-BCDD-7A780E43B411)		
+	]
+	coclass calc
+	{
+		[default] interface Icalc;
+	};
+};
+
